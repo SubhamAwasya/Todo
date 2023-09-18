@@ -1,0 +1,34 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "SHUBHAM AWASYA",
+      "email": "subham789899618@gmail.com",
+      "data": "elite passs 360\n720\n825\n455"
+    },
+    {
+      "id": 2,
+      "name": "Jhon china ",
+      "email": "wwe@gmail.com",
+      "data": "best wrestler"
+    },
+    {
+      "id": 3,
+      "name": "nora fatehi ",
+      "email": "jdbc@gmail.com ",
+      "data": "this is my test todo"
+    },
+    {
+      "id": 4,
+      "name": "todo",
+      "email": "todo.com",
+      "data": "this is the test of a todo creation"
+    },
+    {
+      "id": 5,
+      "name": "my new todo",
+      "email": "suawasya@gmail.com",
+      "data": "this is the todo to generat a new todo so we can test tethis website\nand i have to remove a margin from this site"
+    }
+  ]
+}
